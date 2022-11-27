@@ -1,0 +1,19 @@
+# 28.11.22 Script
+Todays topics:
+ - short recap of last week
+ - UI
+	 - creating a GameOver screen
+   - creating a Highscore
+ - start working on your projects
+    - 10 minute meetings with each student
+    
+## UI
+### What is an UI?
+
+![New Super Mario Bros.™ U Deluxe](http://tinfoil.media/i/0100EA80032EA000/0/0/f7eab80bf81dace25f1372f2b0ac5a63e3653af74468f73f37c6bb27df638a93)
+![The Legend of Zelda: Breath of the Wild | Game UI Database](https://www.gameuidatabase.com/uploads/TheLegendofZelda_BreathoftheWild04232020-110340.jpg)
+## How to create a UI in Unity:
+**Right click** into your **Hierarchy** and choose a new **UI element**. (For Textmeshpro objects, you have to import the TMP package, Unity will ask you automatically.)
+
+![How to Create a UI in Unity 3D - Studica Education and Technology Blog](https://i0.wp.com/blog.studica.com/storage/2016/04/UI-2.png?resize=327%2C559)
+A Canvas will automatically be created, to incorporate your new UI object. 
